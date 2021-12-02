@@ -38,12 +38,12 @@
   </properties>
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/xwikisas/application-office365/issues</url>
+    <url>https://github.com/xwikisas/application-microsoft365/issues</url>
   </issueManagement>
   <scm>
-    <connection>scm:git:git://github.com/xwikisas/application-office365.git</connection>
-    <developerConnection>scm:git:git@github.com:xwikisas/application-office365.git</developerConnection>
-    <url>https://github.com/xwikisas/application-office365/tree/master</url>
+    <connection>scm:git:git://github.com/xwikisas/application-microsoft365.git</connection>
+    <developerConnection>scm:git:git@github.com:xwikisas/application-microsoft365.git</developerConnection>
+    <url>https://github.com/xwikisas/application-microsoft365/tree/master</url>
     <tag>HEAD</tag>
   </scm>
   <modules>
