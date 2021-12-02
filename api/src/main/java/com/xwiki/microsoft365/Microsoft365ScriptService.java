@@ -83,7 +83,7 @@ public class Microsoft365ScriptService implements ScriptService, Initializable
     }
 
     /**
-     * A string with debug-information (add &debug=1 to make it viewed in the page).
+     * A string with debug-information (add &amp;debug=1 to make it viewed in the page).
      *
      * @return a string with debug-information.
      */
@@ -126,7 +126,7 @@ public class Microsoft365ScriptService implements ScriptService, Initializable
     /**
      * Retrieves the list of accessible Sharepoint sites for the user.
      *
-     * @return the list of Strings <id>:<name>.
+     * @return the list of Strings &lt;id&gt;:&lt;name&gt;.
      */
     public List<String> getAvailableSites()
     {

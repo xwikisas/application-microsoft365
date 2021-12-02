@@ -74,7 +74,7 @@ public interface Microsoft365Connections
     /**
      * Retrieves the list of accessible Sharepoint sites for the user.
      *
-     * @return the list of Strings <id>:<name>.
+     * @return the list of Strings &lt;id&gt;:&lt;name&gt;.
      */
     List<String> getAvailableSites();
 
