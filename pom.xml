@@ -26,7 +26,7 @@
   </parent>
   <groupId>com.xwiki.application-microsoft365</groupId>
   <artifactId>application-microsoft365-parent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-rc2</version>
   <packaging>pom</packaging>
   <name>Microsoft 365 Integration (pro) parent POM</name>
 	<description>This extension allows users to integrate with the Microsoft 365
@@ -44,7 +44,7 @@
     <connection>scm:git:git://github.com/xwikisas/application-microsoft365.git</connection>
     <developerConnection>scm:git:git@github.com:xwikisas/application-microsoft365.git</developerConnection>
     <url>https://github.com/xwikisas/application-microsoft365/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>application-microsoft365-parent-1.0-rc2</tag>
   </scm>
   <modules>
     <module>api</module>
