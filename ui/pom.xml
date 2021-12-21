@@ -37,7 +37,7 @@
             Microsoft365.WebHome
         </xwiki.extension.licensing.publicDocuments>
         <xwiki.extension.licensing.excludedDocuments>
-            Microsoft365.Microsoft65Config
+            Microsoft365.Config
         </xwiki.extension.licensing.excludedDocuments>
         <!-- Name to display by the Extension Manager -->
         <xwiki.extension.name>Microsoft365 Integration (Pro)</xwiki.extension.name>
